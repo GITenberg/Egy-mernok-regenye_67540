@@ -1,0 +1,30 @@
+_repo: Egy-mernok-regenye_67540
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Jávor, Pál
+    gutenberg_agent_id: '54312'
+    url: http://www.gutenberg.org/2009/agents/54312
+creator:
+  author:
+    agent_name: Pálffy, Albert
+    gutenberg_agent_id: '54311'
+    url: http://www.gutenberg.org/2009/agents/54311
+description: ''
+gutenberg_issued: '2022-03-02'
+identifiers:
+  gutenberg: '67540'
+language: hu
+pgterms:marc905: 20220202105252plffy
+pgterms:marc906: '1911'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Egy mérnök regénye
+url: http://www.gutenberg.org/ebooks/67540
